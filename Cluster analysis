@@ -1,0 +1,3 @@
+app <- read.csv("~/Desktop/RP.mhapp/app.all120216.csv")
+str(app)
+summary(app)
